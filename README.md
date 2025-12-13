@@ -1,7 +1,7 @@
 # Gold-Seeker: 融合领域知识与大模型的金矿智能预测平台
 
 <p align="center">
-  <img src="logo.png" alt="Gold-Seeker Logo" width="200"/>
+  <img src="logo(1).png" alt="Gold-Seeker Logo" width="200"/>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
