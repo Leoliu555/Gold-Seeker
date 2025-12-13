@@ -18,12 +18,12 @@ __author__ = "Gold-Seeker Development Team"
 __email__ = "your-email@example.com"
 __license__ = "MIT"
 
-# 导入主要类和函数
-from .coordinator import CoordinatorAgent
-from .archivist import ArchivistAgent
-from .spatial_analyst import SpatialAnalystAgent
-from .modeler import ModelerAgent
-from .critic import CriticAgent
+# 导入主要类和函数 (暂时注释，避免依赖问题)
+# from .coordinator import CoordinatorAgent
+# from .archivist import ArchivistAgent
+# from .spatial_analyst import SpatialAnalystAgent
+# from .modeler import ModelerAgent
+# from .critic import CriticAgent
 
 # 导入工具类
 from .tools.geochem.selector import GeochemSelector

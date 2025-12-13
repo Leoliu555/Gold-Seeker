@@ -7,6 +7,7 @@ scipy>=1.7.0
 scikit-learn>=1.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
+requests>=2.25.0
 
 # 地理空间数据处理
 geopandas>=0.10.0
@@ -21,11 +22,17 @@ libpysal>=4.5.0
 esda>=2.4.0
 splot>=1.1.0
 
+# 克里金插值
+pykrige>=1.7.0
+
+# 分形分析
+pwlf>=2.0.0
+
 # 机器学习与AI
-langchain>=0.0.200
-langchain-openai>=0.0.2
-openai>=1.0.0
-tiktoken>=0.3.0
+# langchain>=0.0.200  # 暂未使用，已注释
+# langchain-openai>=0.0.2  # 暂未使用，已注释
+# openai>=1.0.0  # 暂未使用，已注释
+# tiktoken>=0.3.0  # 暂未使用，已注释
 
 # 数据可视化
 plotly>=5.0.0
